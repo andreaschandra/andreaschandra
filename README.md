@@ -1,11 +1,15 @@
 ### Black Magic at Science
 
-- love reading papers
+Love reading papers
 
-- often conduct mini workshop at Jakarta Research
+Often conduct mini workshop at Jakarta Research
 
-- Research interest: Natural Language Processing and Generation
+Research interest: Natural Language Processing and Generation
 
-- A fan of Hugging Face
+A fan of Hugging Face
 
-- Life is not supposed to be boring
+Contact me through Discord andreaschandra#4851
+
+Top ranked at The Data Share Server - Discord
+
+Life is not supposed to be boring
