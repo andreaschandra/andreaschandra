@@ -1,15 +1,15 @@
-### Black Magic at Science
+### Black Magic at Science 🎩
 
-Love reading papers
+🔥 Love reading papers
 
-Often conduct mini workshop at Jakarta Research
+📔 Often conduct mini workshop at Jakarta Research
 
-Research interest: Natural Language Processing and Generation
+🕶️ Research interest: Natural Language Processing and Generation
 
-A fan of Hugging Face
+💃 A fan of Hugging Face
 
-Contact me through Discord andreaschandra#4851
+💬 Contact me through Discord andreaschandra#4851
 
-Top ranked at The Data Share Server - Discord
+👑 Top ranked at The Data Share Server - Discord
 
-Life is not supposed to be boring
+🤦 Life is not supposed to be boring
