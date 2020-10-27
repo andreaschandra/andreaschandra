@@ -2,14 +2,14 @@
 
 🔥 Love reading papers
 
-📔 Often conduct mini workshop at Jakarta Research
+💃 Founding members of Jakarta Research
+
+📔 Partly Work at Jakarta Research
 
 🕶️ Research interest: Natural Language Processing and Generation
 
-💃 A fan of Hugging Face
-
-💬 Contact me through Discord andreaschandra#4851
-
-👑 Top ranked at The Data Share Server - Discord
+👑 Editor of Data Folks Indonesia
 
 🤦 Life is not supposed to be boring
+
+💬 Contact me through Discord andreaschandra#4851
