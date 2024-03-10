@@ -13,6 +13,7 @@ jobs:
           python-version: '3.11'
       - name: Read markdown
         run: |
+          git pull
           ./generate.sh
       - name: Commit and Push Changes
         uses: actions-js/push@master
