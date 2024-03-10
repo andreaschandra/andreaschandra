@@ -1,0 +1,24 @@
+name: update-readme on schedule
+
+on:
+  schedule:
+    - cron: '* * * * *'
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.11'
+      - name: Git Pull
+        run: git pull
+      - name: Generate markdown
+        run: |
+          ./generate.sh
+      - name: Commit and Push Changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
