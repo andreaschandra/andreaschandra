@@ -13,4 +13,8 @@ jobs:
           python-version: '3.11'
       - name: Read markdown
         run: |
-          cat README.md
+          ./generate.sh
+      - name: Commit and Push Changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

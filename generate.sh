@@ -1,7 +1,7 @@
-
+echo """
 ### Black Magic at Science 🎩
 
-📅 10 Mar 2024 18:11:47
+📅 $(date "+%d %b %Y %H:%M:%S")
 
 🔥 Love reading papers
 
@@ -17,7 +17,8 @@
 
 💬 Contact me through Discord andreaschandra#4851
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andreaschandra.andreaschandra) ![Github Stats](https://github-readme-stats.vercel.app/api?username=andreaschandra&show_icons=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andreaschandra.andreaschandra) \
+![Github Stats](https://github-readme-stats.vercel.app/api?username=andreaschandra&show_icons=true)
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
@@ -27,4 +28,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+""" > README.md
