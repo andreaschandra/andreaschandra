@@ -1,7 +1,7 @@
 
 ### Black Magic at Science 🎩
 
-📅 10 Mar 2024 11:26:50
+📅 10 Mar 2024 11:34:44
 
 🔥 Love reading papers
 
@@ -17,8 +17,9 @@
 
 💬 Contact me through Discord andreaschandra#4851
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andreaschandra.andreaschandra) ![Github Stats](https://github-readme-stats.vercel.app/api?username=andreaschandra&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=andreaschandra&show_icons=true)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andreaschandra.andreaschandra)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
 ![Kubeflow](https://img.shields.io/badge/-Kubeflow-blue?style=flat-square&logo=Kubeflow)
