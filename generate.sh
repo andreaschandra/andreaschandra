@@ -1,3 +1,5 @@
+TZ="Asia/Jakarta"
+
 echo """
 ### Black Magic at Science 🎩
 

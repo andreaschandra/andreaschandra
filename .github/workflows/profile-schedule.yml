@@ -22,3 +22,5 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.ACTION_TOKEN }}
+          author_email: phoenix.ichigo@yahoo.com
+          author_name: Andreas Chandra
