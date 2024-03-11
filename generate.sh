@@ -1,9 +1,7 @@
-TZ="Asia/Jakarta"
-
 echo """
 ### Black Magic at Science 🎩
 
-📅 $(date "+%d %b %Y %H:%M:%S")
+📅 $(TZ="Asia/Jakarta" date "+%d %b %Y %H:%M:%S")
 
 🔥 Love reading papers
 
