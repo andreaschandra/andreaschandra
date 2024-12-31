@@ -2,7 +2,7 @@ name: update-readme on schedule
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 0 * * *'
 jobs:
   read:
     runs-on: ubuntu-latest
