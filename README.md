@@ -1,7 +1,7 @@
 
 ### Black Magic at Science 🎩
 
-📅 14 Nov 2026 11:55:14
+📅 15 Nov 2026 11:48:04
 
 🔥 Love reading papers
 
